@@ -1,0 +1,5 @@
+Bundle-Name: bs-intranet-project-userdirectory
+Bundle-SymbolicName: com.sdgitaly.dev.portletmodule.userdirectory.portlet
+Bundle-Version: 1.0.0
+Export-Package: com.sdgitaly.dev.portletmodule.userdirectory.portlet.constants
+Web-ContextPath: /bs-intranet-project-userdirectory
